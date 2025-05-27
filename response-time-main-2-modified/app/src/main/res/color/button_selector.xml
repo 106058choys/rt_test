@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:state_pressed="true" android:color="#A5D6A7" /> <!-- Light green -->
-    <item android:color="#4CAF50" /> <!-- Default green -->
-</selector>
